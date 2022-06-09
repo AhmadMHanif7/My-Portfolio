@@ -1,0 +1,75 @@
+*{
+    background: #1ba7df;
+    color: black
+}
+
+img {
+    max-width: 15%;
+    /* mix-blend-mode: multiply; */
+    padding-bottom: 50px;
+}
+
+/* Header Style Start */
+
+header {
+    font-family: 'fantasy', 'copperplate';
+    text-align: center;
+    font-size: x-large;
+    font-size: 50px;
+}
+/* Header Style End */
+
+body {
+    margin: 0;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+/* About Me Start */
+
+.About-Me {
+    display: inline-block;
+    margin-top: 30px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.About-Me h2 {
+    font-size: 45px;
+    border-bottom: 5px solid black;
+    width: 300px;
+}
+
+/* About Me End */
+
+
+/* Project Starts */
+
+.Projects {
+    text-align: center;
+}
+
+.Projects h2 {
+    border-bottom: 5px solid black;
+    font-size: 45px;
+    width: 250px;
+}
+
+/* Project End */
+
+
+/* Footer Start */
+
+footer {
+    text-align: center;
+}
+
+footer h2 {
+    border-bottom: 5px solid black;
+    font-size: 45px;
+    width: 450px;
+}
+
+/* Footer End */
