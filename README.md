@@ -14,3 +14,10 @@ Imported title and tied to URL to send to githun repo
 ``
 
 ![Screenshot](Assets/Image/Screen Shot 2022-06-09 at 19.49.38.png)
+
+"
+Issues: 
+Deployed website is not showing the css styling
+Image is not loading in README file
+H2s are not centering
+"
