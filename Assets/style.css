@@ -5,7 +5,6 @@
 
 img {
     max-width: 15%;
-    /* mix-blend-mode: multiply; */
     padding-bottom: 50px;
 }
 
@@ -14,17 +13,12 @@ img {
 header {
     font-family: 'fantasy', 'copperplate';
     text-align: center;
-    font-size: x-large;
     font-size: 50px;
 }
 /* Header Style End */
 
 body {
     margin: 0;
-}
-
-footer {
-    padding-top: 20px;
 }
 
 /* About Me Start */
@@ -53,8 +47,20 @@ footer {
 
 .Projects h2 {
     border-bottom: 5px solid black;
+    padding-top: 20px;
     font-size: 45px;
     width: 250px;
+}
+
+.Projects img {
+    border-radius: 8px;
+    max-width: 100%;
+    padding-bottom: 0;
+}
+
+.Projects h3{
+    padding-top: 0;
+    margin-left: 25px;
 }
 
 /* Project End */
@@ -62,11 +68,12 @@ footer {
 
 /* Footer Start */
 
-footer {
+.My-Contact {
     text-align: center;
+    padding-top: 20px;
 }
 
-footer h2 {
+.My-Contact h2 {
     border-bottom: 5px solid black;
     font-size: 45px;
     width: 450px;
